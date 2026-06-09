@@ -23,11 +23,11 @@ git push origin main
 ## How to run?
 
 ```bash
-conda create -n visa python=3.8 -y
+conda create -n placement python=3.10 -y
 ```
 
 ```bash
-conda activate visa
+conda activate placement
 ```
 
 ```bash
